@@ -1,0 +1,14 @@
+T0
+-normal map 
+-combine
+- dot3 rgb
+- arg0 texture src_color
+- arg1 primary_color src_color
+
+T1
+-map
+-combine
+-modulate
+-arg0 previous src_color
+-arg1 texture src_color
+
