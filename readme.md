@@ -7,7 +7,7 @@ ShaderGen
 
 ### Description ###
 
-3DLabs' ShaderGen ported to Qt 4.
+ShaderGen is a tool that automatically generates OpenGL Shading Language shaders that duplicate fixed function OpenGL behavior.
 
 ### Download ###
 
